@@ -543,6 +543,8 @@ rural_ride_count = rural.groupby(["city"]).count()["ride_id"]
 rural_driver_count = rural.groupby(["city"]).mean()["driver_count"]
 ```
 
+# Bubble Plot of Ride Sharing Data
+
 
 ```python
 plt.scatter(urban_ride_count, urban_avg_fare, 
@@ -577,8 +579,10 @@ plt.grid()
 ```
 
 
-![png](output_14_0.png)
+![png](output_15_0.png)
 
+
+# Total Fares by City Type
 
 
 ```python
@@ -631,8 +635,10 @@ plt.axis("equal")
 
 
 
-![png](output_16_1.png)
+![png](output_18_1.png)
 
+
+# Total Rides by City Type
 
 
 ```python
@@ -683,8 +689,10 @@ plt.axis("equal")
 
 
 
-![png](output_18_1.png)
+![png](output_21_1.png)
 
+
+# Total Drivers by City Type
 
 
 ```python
@@ -732,5 +740,5 @@ plt.axis("equal")
 
 
 
-![png](output_20_1.png)
+![png](output_24_1.png)
 

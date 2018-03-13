@@ -72,7 +72,7 @@ city_data_df.head()
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -84,7 +84,7 @@ city_data_df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -143,7 +143,7 @@ ride_data_df.head()
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -155,7 +155,7 @@ ride_data_df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -225,7 +225,7 @@ merged_df.head()
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -237,7 +237,7 @@ merged_df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -317,7 +317,7 @@ merged_df.head()
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -329,7 +329,7 @@ merged_df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -418,7 +418,7 @@ merged_df.head()
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -430,7 +430,7 @@ merged_df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

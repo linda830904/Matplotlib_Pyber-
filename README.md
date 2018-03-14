@@ -689,7 +689,7 @@ plt.axis("equal")
 
 
 
-![png](output_21_1.png)
+![png](https://github.com/linda830904/Matplotlib_Pyber-/blob/master/output_18_1.png)
 
 
 # Total Drivers by City Type
@@ -740,5 +740,5 @@ plt.axis("equal")
 
 
 
-![png](output_24_1.png)
+![png](https://github.com/linda830904/Matplotlib_Pyber-/blob/master/output_20_1.png)
 

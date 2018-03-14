@@ -579,7 +579,7 @@ plt.grid()
 ```
 
 
-![png](output_15_0.png)
+![png](https://github.com/linda830904/Matplotlib_Pyber-/blob/master/output_14_0.png)
 
 
 # Total Fares by City Type
